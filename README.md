@@ -16,7 +16,7 @@ Para rodar o projeto em sua máquina local, siga os seguintes passos:
 
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calmaria-spa.git
+   git clone https://github.com/raffojoao/calmaria-spa.git
    ```
 2. Abra o projeto no Visual Studio Code (VSCode).
 3. Certifique-se de ter a extensão **Live Server** instalada no VSCode.
@@ -44,7 +44,7 @@ To run the project on your local machine, follow these steps:
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/your-username/calmaria-spa.git
+   git clone https://github.com/raffojoao/calmaria-spa.git
    ```
 2. Open the project in Visual Studio Code (VSCode).
 3. Make sure you have the **Live Server** extension installed in VSCode.
